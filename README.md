@@ -1,5 +1,5 @@
 # resumo-do-lab
-Resumo do desafio Microsoft Azure - Localizando Serviços por Categoria e do curso Introdução a Computação Nuvem
+Resumo do desafio Microsoft Azure - Localizando Serviços por Categoria e do curso Introdução a Computação em Nuvem
 
 **Modelos de nuvem**
  - Pública: é acessível a várias empresas e usuários.
