@@ -36,3 +36,23 @@ O tempo de inatividade varia de acordo com a porcentagem do SLA.
 A criação de uma máquina virtual na Azure, permite escolher opções como disponibilidade, zona de disponibilidade, tipo de segurança, etc.
 
 Redundância: permite a escolha do tipo de armazenamento com redundância, que cria cópias, aumentando a segurança e disponibilidade.
+
+## **Curso Tipos de Serviço de Nuvem**
+
+**Tipos de serviço:**
+- IaaS (Infraestrutura como Serviço): são serviços onde o usuário tem mais envolvimento com os servidores, segurança e edifício datacenter.
+- PaaS (Plataforma como serviço): Não precisa mais se preocupar com servidores, apenas com a aplicação. Sistemas operacionais e ferramentas para desenvolvedores.
+- SaaS (Software como Serviço): os usuários utilizam os aplicativos que são acessados em nuvem pela internet.
+
+**Modelo de responsabilidade compartilhada:**
+
+IaaS: a responsabilidade de hosts físicos, rede física e datacenter físico é do provedor.
+
+Paas: além dos itens do Iaas, o provedor é responsável do sistema operacional e parcialmente da infraestrutuda de identidade e diretório, aplicativos e controle de redes.
+
+SaaS: o provedor passa a ser responsável integral do controle de rede e aplicativos dos itens do PaaS.
+
+## **Desafio Configurando uma instância de Banco de Dados na Azure**
+
+Na criação da máquina virtual na Azure é possível escolher a Imagem (SO) e opções de redes, discos entre outras.
+É necessário criar um servidor para utilizar o banco de dados. A criação é feita na própria Azure.
